@@ -1,3 +1,7 @@
+# Problem 003: https://projecteuler.net/problem=3
+# This problem is © Project Euler and used under CC BY-NC-SA 4.0
+# Shared for educational, non-commercial purposes
+
 # What is the largest prime factor of 
 # the number 600851475143?
 

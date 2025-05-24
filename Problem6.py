@@ -1,3 +1,7 @@
+# Problem 006: https://projecteuler.net/problem=6
+# This problem is © Project Euler and used under CC BY-NC-SA 4.0
+# Shared for educational, non-commercial purposes
+
 # Find the difference between the sum of the squares of the 
 # first one hundred natural numbers and the square of the sum.
 

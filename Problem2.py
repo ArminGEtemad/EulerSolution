@@ -1,3 +1,7 @@
+# Problem 002: https://projecteuler.net/problem=2
+# This problem is © Project Euler and used under CC BY-NC-SA 4.0
+# Shared for educational, non-commercial purposes
+
 # Each new term in the Fibonacci sequence is generated 
 # by adding the previous two terms. 
 # By considering the terms in the Fibonacci sequence whose 

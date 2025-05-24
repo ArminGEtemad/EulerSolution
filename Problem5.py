@@ -1,3 +1,7 @@
+# Problem 005: https://projecteuler.net/problem=5
+# This problem is © Project Euler and used under CC BY-NC-SA 4.0
+# Shared for educational, non-commercial purposes
+
 # 2520  is the smallest number that can be divided by 
 # each of the numbers from 1 to 10 without any remainder.
 # What is the smallest positive number that is evenly

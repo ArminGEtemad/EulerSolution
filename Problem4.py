@@ -1,3 +1,7 @@
+# Problem 004: https://projecteuler.net/problem=4
+# This problem is © Project Euler and used under CC BY-NC-SA 4.0
+# Shared for educational, non-commercial purposes
+
 # A palindromic number reads the same both ways. 
 # The largest palindrome made from the product 
 # of two 2-digit numbers is 9009 = 91 x 99
