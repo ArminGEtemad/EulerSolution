@@ -7,6 +7,7 @@ You can read more at: https://projecteuler.net/about
 > “The following problems are taken from Project Euler and are used here for educational, non-commercial purposes only.”  
 > Problem links follow this format: https://projecteuler.net/problem=001
 
+!!!! Please do not use these solutions to bypass the problem-solving experience !!!!
 ---
 
 ## License
